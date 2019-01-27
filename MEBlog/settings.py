@@ -25,7 +25,7 @@ SECRET_KEY = '1=p-rdw3x+pxea(im703(x7z+2-5#kx9j!1bg$&bvf-%f5*stf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','mergor.pythonanywhere.com']
 
 
 # Application definition
